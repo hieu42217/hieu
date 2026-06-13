@@ -9,3 +9,5 @@ def divide(a, b):
     return a / b if b != 0 else "Lỗi chia cho 0"
 
 print("Ứng dụng chạy thành công!")
+def error_code():
+    return "Hàm này bị lỗi cú pháp"
