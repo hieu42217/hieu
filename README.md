@@ -2,7 +2,7 @@
 git-safety-foundation
 BÁO CÁO HOÀN THÀNH PROJECT: GIT SAFETY FOUNDATION
 1. Thông tin cá nhân
-Họ và tên học viên: Nguyễn Hữu Sang
+Họ và tên học viên: Nguyễn Ngọc Hiếu
 Trạng thái: Đã hoàn thành 02 chứng chỉ Microsoft Learn.
 ## 2. Nhật ký quá trình học và thực hành GitHub
 Giai đoạn 1: Tìm hiểu kiến thức cơ bản về Git và GitHub
